@@ -1,2 +1,2 @@
 # CSAI_React
-WorkoutBuddy exercize tracker.
+WorkoutBuddy exercise tracker.
