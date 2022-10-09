@@ -1,0 +1,15 @@
+.App {
+  font-family: cursive;
+  text-align: center;
+}
+
+.AppDiv {
+  background-color: rgb(250, 233, 244);
+  padding: 3px;
+  font-family: cursive;
+}
+
+.WithBorder {
+  border: 2px dashed rgb(240, 198, 227);
+  margin: 5px;
+}
