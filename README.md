@@ -1,2 +1,2 @@
 # CSAI_React
-Created with CodeSandbox
+WokoutBuddy exercize tracker.
